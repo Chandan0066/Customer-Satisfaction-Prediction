@@ -48,18 +48,11 @@ The dataset contains 8,469 support tickets with the following features:
 * Identify weak support areas by product or channel
 * Optimize ticket routing and prioritization strategies
 
-## 📌 Project Structure
-
-```
-├── data/
-│   └── customer_support_tickets.csv
-├── notebooks/
-│   └── customer_satisfaction_model.ipynb
-├── reports/
-│   └── customer_satisfaction_analysis.pptx
-├── Customer_Satisfaction_Prediction_Project.pptx
-├── README.md
-```
+## 📦 Deliverables
+- `Netflix_ML.ipynb`: Final data with clustering and ML insights.
+- `NetflixData_Report.ppt`: Final project report PowerPoint summary.
+- `netflix_final.xlsx`: Excel with visualized data
+- `Netflix_SQL.sql`: SQL code for cleaning, querying, and genre analysis.
 
 ## 📎 Future Improvements
 
@@ -67,10 +60,6 @@ The dataset contains 8,469 support tickets with the following features:
 * Try XGBoost or Ordinal Classification models
 * Integrate model into a live dashboard/CRM
 
-## 🧑‍💻 Author
-
-**\[Your Name]**
-\[Your GitHub or LinkedIn profile link]
 
 
 
