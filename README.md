@@ -1,4 +1,3 @@
-# Customer-Satisfaction-Prediction
 # Customer Satisfaction Prediction Project
 
 This project focuses on predicting customer satisfaction ratings based on historical support ticket data using machine learning.
