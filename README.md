@@ -49,10 +49,10 @@ The dataset contains 8,469 support tickets with the following features:
 * Optimize ticket routing and prioritization strategies
 
 ## 📦 Deliverables
-- `Netflix_ML.ipynb`: Final data with clustering and ML insights.
-- `NetflixData_Report.ppt`: Final project report PowerPoint summary.
-- `netflix_final.xlsx`: Excel with visualized data
-- `Netflix_SQL.sql`: SQL code for cleaning, querying, and genre analysis.
+- `Customer_support_tickets_ML.ipynb`: Final ML insights.
+- `Customer_Satisfaction_Prediction_Report.pptx`: Final project report PowerPoint summary.
+- `customer_support_tickets_final.xlsx`: Excel with visualized data
+- `Customer_Support_tickets_SQL.sql`: SQL code for  better understanding customer support patterns before building the model.
 
 ## 📎 Future Improvements
 
